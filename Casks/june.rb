@@ -1,6 +1,6 @@
 cask "june" do
-  version "0.0.31"
-  sha256 "c533a854a09404e3a47fe8121b8b393e74588a6dacac2e2c40702ae44ad13f7f"
+  version "0.0.32"
+  sha256 "51d5ed8d03e5aed09171369d952695006c4a67f25f8f8e6d08a914496aa21afd"
 
   url "https://github.com/open-software-network/os-june-releases/releases/download/v#{version}/June_universal.dmg",
       verified: "github.com/open-software-network/os-june-releases/"
